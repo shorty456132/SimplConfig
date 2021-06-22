@@ -1,0 +1,53 @@
+[BEGIN]
+  ObjTp=FSgntr
+  Sgntr=ArchiveManifest
+  RelVrs=4.10.07
+  IsProgram=1
+  TopLevelProgram=SystemType1.smw
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=SystemType1.smw
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=SystemType1.sig
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=SystemType1.lpz
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=SystemType1.smft
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=SystemType1.lpz.hash
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Sharp-PN_Volume.umc
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=CoreCodeJson.ush
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=ConsumeJson.clz
+  Scope=2
+  Module=CoreCodeJson.ush
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=CoreCodeSwitching.ush
+  Scope=2
+[END]

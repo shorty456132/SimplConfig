@@ -1,0 +1,9 @@
+C:\Users\alaiacano\Documents\Visual Studio 2008\Projects\ConsumeJson\ConsumeJson\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alaiacano\Documents\Visual Studio 2008\Projects\ConsumeJson\ConsumeJson\bin\Debug\ConsumeJson.dll
+C:\Users\alaiacano\Documents\Visual Studio 2008\Projects\ConsumeJson\ConsumeJson\bin\Debug\ConsumeJson.pdb
+C:\Users\alaiacano\Documents\Visual Studio 2008\Projects\ConsumeJson\ConsumeJson\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Users\alaiacano\Documents\Visual Studio 2008\Projects\ConsumeJson\ConsumeJson\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\alaiacano\Documents\Visual Studio 2008\Projects\ConsumeJson\ConsumeJson\bin\Debug\SimplSharpCWSHelperInterface.dll
+C:\Users\alaiacano\Documents\Visual Studio 2008\Projects\ConsumeJson\ConsumeJson\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\alaiacano\Documents\Visual Studio 2008\Projects\ConsumeJson\ConsumeJson\obj\Debug\ConsumeJson.dll
+C:\Users\alaiacano\Documents\Visual Studio 2008\Projects\ConsumeJson\ConsumeJson\obj\Debug\ConsumeJson.pdb
